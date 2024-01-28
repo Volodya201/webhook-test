@@ -1,0 +1,1 @@
+const scam = "sounds like scam"
